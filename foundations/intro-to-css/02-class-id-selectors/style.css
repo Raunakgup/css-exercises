@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.odd{
+    color:black;
+    background-color: #ea5a89;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+.cool{
+    font-size:24px;
+}
+#even-1{
+    font-size: 36px;
+    color:rgb(29, 29, 206);
+}
+#even-2{
+    font-weight: bold;
+    background-color: rgb(31, 230, 31);
+}
